@@ -1,0 +1,3 @@
+Clearly $K$ is measurable and non-negative. Furthermore, $$\int K(x)\,dx = c\int_{-1}^1 1 - x^2\,dx = c\,\left(2 - \left[\frac{x^3}{3}\right]^1_{-1}\right) = c\,(2 - 2/3) = c\,\frac{4}{3} = 1.$$
+
+We have symmetry around 0 since $x\mapsto x^2$ and $x\mapsto |x|$ are symmetric around 0.
